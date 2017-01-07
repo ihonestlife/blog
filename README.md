@@ -5,7 +5,7 @@
 - CommonJs
 - AMD
 - CMD
-- ES6
+- [深入浅出ES6](http://www.infoq.com/cn/articles/es6-in-depth-an-introduction)
 - [Electron](http://electron.atom.io/)
 
 工程化
@@ -25,24 +25,24 @@
 - Webpack
 - Gulp
 - Grunt
-- Babel
-- Bower
+- [Babel](http://babeljs.io/)
+- [Bower](https://bower.io/)
 
 UI Framework
 
-- Bootstrap
-- Foundation
-- Framework7
-- SUI
-- SUI Mobile
-- Ant Design
-- Angular Material
+- [Bootstrap](http://bootcss.com)
+- [Foundation](http://foundation.zurb.com/)
+- [Framework7](http://framework7.taobao.org/)
+- [SUI](sui.taobao.org)
+- [SUI Mobile](http://m.sui.taobao.org/)
+- [Ant Design](https://ant.design)
+- [Angular Material](https://material.angularjs.org/latest/)
 
 模块加载器&包管理器
 
-- RequireJs
-- SeaJs
-- SystemJs
+- [RequireJs](http://requirejs.org/)
+- [SeaJs](http://seajs.org/docs/)
+- [SystemJs](https://github.com/systemjs/systemjs)
 
 - NPM
 - SPM
