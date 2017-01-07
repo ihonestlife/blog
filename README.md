@@ -1,5 +1,5 @@
 推荐博文
-- [前端工程——基础篇](https://github.com/fouber/blog/issues/10)
+- [前端工程——基础篇 by fouber](https://github.com/fouber/blog/issues/10)
 - [浅谈前端集成解决方案 by fouber](https://github.com/fouber/blog/issues/1)
 - [前端工程与性能优化 by fouber](https://github.com/fouber/blog/issues/3)
 - [前端开发体系建设日记 by fouber](https://github.com/fouber/blog/issues/2)
@@ -13,6 +13,10 @@
 - [2015前端组件化框架之路 by fouber](https://github.com/xufei/blog/issues/19)
 - [前端工程之模块化 by fouber](http://fex.baidu.com/blog/2014/03/fis-module/)
 - [深入浅出ES6](http://www.infoq.com/cn/articles/es6-in-depth-an-introduction)
+
+推荐工具
+- [Atom](https://atom.io/)
+- [WebStorm](https://www.jetbrains.com/webstorm/)
 - [Electron](http://electron.atom.io/)
 
 Module Guide
