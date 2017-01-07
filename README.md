@@ -16,6 +16,7 @@
 
 推荐工具
 - [Atom](https://atom.io/)
+- [Atom常用插件](http://blog.csdn.net/mduanfire/article/details/50278591)
 - [WebStorm](https://www.jetbrains.com/webstorm/)
 - [Electron](http://electron.atom.io/)
 
