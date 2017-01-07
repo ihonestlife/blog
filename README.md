@@ -6,7 +6,7 @@
 - AMD
 - CMD
 - ES6
-- Electron
+- [Electron](http://electron.atom.io/)
 
 工程化
 
