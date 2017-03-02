@@ -17,6 +17,7 @@
     * [2015前端组件化框架之路 by fouber](https://github.com/xufei/blog/issues/19)
     * [前端工程之模块化 by fouber](http://fex.baidu.com/blog/2014/03/fis-module/)
     * [深入浅出ES6](http://www.infoq.com/cn/articles/es6-in-depth-an-introduction)
+    * [为什么我推荐requirejs-而不是seajs？ by 北漂IT民工](http://blog.3gcnbeta.com/2014/05/27/%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E6%8E%A8%E8%8D%90requirejs-%E8%80%8C%E4%B8%8D%E6%98%AFseajs/)
 
 * 推荐工具
     * [Atom](https://atom.io/)
@@ -48,6 +49,8 @@
     * [SUI Mobile](http://m.sui.taobao.org/)
     * [Ant Design](https://ant.design)
     * [Angular Material](https://material.angularjs.org/latest/)
+    * [Element](http://element.eleme.io)
+    * [iview](https://www.iviewui.com/)
 
 * 模块加载器&包管理器
     * [RequireJs](http://requirejs.org/)
@@ -58,8 +61,8 @@
 
 * Module Guide
     * [CommonJs]
-    * [AMD]
-    * [CMD]
+    * [AMD](https://github.com/amdjs/amdjs-api/wiki/AMD)
+    * [CMD](https://github.com/seajs/seajs/issues/242)
 
 * 动态样式语言
     * [Less](http://lesscss.cn/)
